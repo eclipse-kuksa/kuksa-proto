@@ -3,7 +3,7 @@
 This directory contain a Protobuf API supported by KUKSA Databroker.
 
 This API is deprecated. It is recommended to use
-the [kuksa.val.v2](../v2/val.proto).
+the [kuksa.val.v2](../v2/README.md).
 
 # Schema documentation
 

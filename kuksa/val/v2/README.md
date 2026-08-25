@@ -3,7 +3,7 @@
 This directory contain a Protobuf API supported by KUKSA Databroker.
 
 This API replaces:
-[kuksa.val.v1](https://github.com/eclipse-kuksa/kuksa-databroker/tree/main/proto/kuksa/val/v1) API
+[kuksa.val.v1](../v1/README.md) API
 
 # Schema documentation
 
